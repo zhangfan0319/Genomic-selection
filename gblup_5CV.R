@@ -1,4 +1,3 @@
-##gblup_5cv.R##  5-CV
 library(asreml)
 library(dyplr)
 library(data.table)
